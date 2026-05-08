@@ -1,0 +1,22 @@
+{
+  "name": "roamify",
+  "version": "1.0.0",
+  "description": "Roamify is a full-stack MERN application that reimagines the travel blog. Instead of a simple list of posts, it allows users to pin their travel memories directly onto an interactive world map. Create, edit, and explore your journeys in a rich, geographical context.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitApurv/Roamify.git"
+  },
+  "license": "ISC",
+  "author": "Apurv Maurya",
+  "type": "commonjs",
+  "scripts": {
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "build": "npm run build --prefix client && npm run build --prefix server",
+    "start:server": "npm run dev --prefix server",
+    "start:client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run start:server\" \"npm run start:client\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}

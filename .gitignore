@@ -1,0 +1,123 @@
+# ------------------------------
+# OS Generated Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------
+# Logs
+# ------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------
+# Dependency Directories
+# ------------------------------
+node_modules/
+jspm_packages/
+
+# ------------------------------
+# Build / Production Folders
+# ------------------------------
+dist/
+build/
+out/
+coverage/
+.next/
+.nuxt/
+.svelte-kit/
+.cache/
+.temp/
+tmp/
+
+# ------------------------------
+# Environment Files
+# ------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------
+# IDE & Editor Files
+# ------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# ------------------------------
+# Package Manager Files
+# ------------------------------
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+
+# ------------------------------
+# Java / Kotlin
+# ------------------------------
+*.class
+*.jar
+*.war
+.gradle/
+bin/
+
+# ------------------------------
+# C / C++
+# ------------------------------
+*.o
+*.obj
+*.exe
+
+# ------------------------------
+# Miscellaneous
+# ------------------------------
+*.zip
+*.tar
+*.gz
+*.rar
+
+# ------------------------------
+# Firebase
+# ------------------------------
+.firebase/
+firebase-debug.log
+
+# ------------------------------
+# Vercel / Netlify
+# ------------------------------
+.vercel/
+.netlify/
+
+# ------------------------------
+# Mac & Linux Temporary Files
+# ------------------------------
+*~
+.fuse_hidden*
+.nfs*
+
+# ------------------------------
+# Testing
+# ------------------------------
+coverage-final.json
+.nyc_output/
+
+# ------------------------------
+# Optional: Keep Important Files
+# ------------------------------
+!.gitkeep
