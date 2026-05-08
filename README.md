@@ -4,13 +4,11 @@
 
 Roamify is a full-stack MERN application that reimagines the travel blog. Instead of static posts, it lets users pin their journeys on an interactive world map, attach stories, and visually revisit their adventures.
 
-![Roamify Preview](screenshot/Roamify.png)
-
 ## 🔗 Live DemoW
 
-- 🌐 **Frontend**: [Roamify Client (Netlify)]()
+- 🌐 **Frontend**: [Roamify Client (Netlify)](https://roamify-frontend.onrender.com)
 
-- ⚙️ **Backend API**: [Roamify API (Render)]()
+- ⚙️ **Backend API**: [Roamify API (Render)](https://roamify-backend.onrender.com)
 
 ## ✨ Key Features
 
