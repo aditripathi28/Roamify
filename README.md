@@ -29,4 +29,4 @@ The application is built with a modern MERN-like stack:
 | **Backend**    | Node.js, Express.js              |
 | **Database**   | MongoDB (Mongoose ODM)           |
 | **Auth**       | JWT (JSON Web Tokens)            |
-| **Deployment** | Vercel (Frontend) & Render (API) |
+| **Deployment** | Render                           |
